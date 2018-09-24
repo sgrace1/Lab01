@@ -1,2 +1,3 @@
 # Lab01
-This is my lab 1
+Spencer Grace
+COSC 2030
